@@ -44,6 +44,7 @@ The model achieved a score of approximately 0.90, indicating that advertising ex
 ## How to Run
 
 1. Install required libraries:
+   
    cd SalesPrediction
    pip install pandas scikit-learn numpy
 
